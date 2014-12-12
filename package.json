@@ -3,7 +3,7 @@
   "private": true,
   "name": "cjs-webapi-client",
   "description": "A client for cjs webapi used for testing purposes",
-  "repository": "https://github.com/angular/cjs-webapi-client",
+  "repository": "https://github.com/angular/test-cjs-webapi",
   "devDependencies": {
     "karma": "^0.12.16",
     "karma-chrome-launcher": "^0.1.4",
