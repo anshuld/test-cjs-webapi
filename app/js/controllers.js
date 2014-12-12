@@ -13,7 +13,7 @@ controllersModule.controller('WideSearchController', ['$scope', 'WideSearch', '$
 
   $scope.wideSearch = function($log) {
     // ['$scope', 'WideSearch', '$log', function($scope, $log, WideSearch){
-    console.log('Logging search criteria - ' + $scope.searchCriteria.adults);
+    console.log('Logging search criteria - ' + JSON.stringify($scope.searchCriteria));
 
   }
   // ];
